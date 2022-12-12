@@ -1,4 +1,4 @@
-### Hi there 👋 . i'm Nat Choonhajinda 
+### Hi there 👋.I'm Nat Choonhajinda 
 
 - 🌱 I’m currently learning
 <!--
