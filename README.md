@@ -1,6 +1,6 @@
 ### Hi there 👋.I'm Nat Choonhajinda 
 - 📫 Looking for Data scientist Internship
-- 🌱 I’m currently learning about machine learning for data
+- 🌱 I’m currently learning about Random Forest
 ## Skills ⚡
 - Logistic regression
 - linear regression
