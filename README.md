@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 . i'm Nat Choonhajinda 
 
+- 🌱 I’m currently learning
 <!--
 **NatChoonhajinda/NatChoonhajinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
