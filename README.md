@@ -5,7 +5,7 @@
 - Logistic regression
 - linear regression
 - k-mean cluster / elbow
-- Decision tree
+- Decision tree / Bagging Trees
 - Lstm
 <!--
 **NatChoonhajinda/NatChoonhajinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
