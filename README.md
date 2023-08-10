@@ -1,12 +1,13 @@
 ### Hi there 👋.I'm Nat Choonhajinda 
-- 📫 Looking for Data scientist Internship
-- 🌱 I’m currently learning about Machine Learning
+- 📫 Looking for Data scientist / Data analytic job
+- 🌱 I’m currently learning about Machine Learning & Deeplearning
 ## Skills ⚡
 - Logistic regression
 - linear regression
 - k-mean cluster / elbow
 - Decision tree / Bagging Trees
-- Lstm
+- Lstm / bidirect lstm
+- Flask
 <!--
 **NatChoonhajinda/NatChoonhajinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
