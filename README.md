@@ -8,10 +8,13 @@
 - Decision tree 
 - Lstm / bidirect lstm
 - Flask
+Current project : an exploration of optimize container fittings algorithm using genetic algorithm
 ![boxfitting](https://github.com/NatChoonhajinda/NatChoonhajinda/assets/98221086/b53d98aa-0367-42d8-b799-37d01dd92e02)
+![ezgif com-animated-gif-maker](https://github.com/NatChoonhajinda/NatChoonhajinda/assets/98221086/ca97b006-ffe0-4de6-a663-1b5d991945d2)
+![ezgif com-animated-gif-maker (1)](https://github.com/NatChoonhajinda/NatChoonhajinda/assets/98221086/b2054644-98d3-4063-a405-2b7d299f6e3c)
 
 
-![Uploading boxfitting.gif]()
+
 
 - 
 <!--![boxfitting](https://github.com/NatChoonhajinda/NatChoonhajinda/assets/98221086/7cd726f6-b68b-401c-986c-e3ddd680c369)
