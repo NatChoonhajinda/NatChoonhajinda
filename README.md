@@ -1,6 +1,7 @@
 ### Hi there 👋.I'm Nat Choonhajinda 
 - 📫 Looking for Data scientist / Data analytic job
 - 🌱 I’m currently learning about Machine Learning & Deeplearning
+- 🔭 Most of the time i work alone so no update much
 ## Skills ⚡
 - Logistic regression
 - linear regression
