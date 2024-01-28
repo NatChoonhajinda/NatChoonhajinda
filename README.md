@@ -8,6 +8,7 @@
 - Decision tree 
 - Lstm / bidirect lstm
 - Flask
+![boxfitting](https://github.com/NatChoonhajinda/NatChoonhajinda/assets/98221086/b53d98aa-0367-42d8-b799-37d01dd92e02)
 
 
 ![Uploading boxfitting.gif]()
