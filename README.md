@@ -8,9 +8,10 @@
 - Decision tree / Bagging Trees
 - Lstm / bidirect lstm
 - Flask
+![Uploading ezgif.com-animated-gif-maker (2).gif…]()
 <!--
 **NatChoonhajinda/NatChoonhajinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Uploading ezgif.com-animated-gif-maker (2).gif…]()
+
 
 Here are some ideas to get you started:
 
