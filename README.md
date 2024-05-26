@@ -3,12 +3,6 @@
 - 🌱 I’m currently learning about Machine Learning & Deeplearning
 - 🔭 Most of the time i work alone so no update much
 ## Skills ⚡
-- Logistic regression
-- linear regression
-- k-mean cluster
-- Decision tree 
-- Lstm / bidirect lstm
-- Flask
 - Current project : an exploration of optimize container fittings algorithm using genetic algorithm
 ![boxfitting](https://github.com/NatChoonhajinda/NatChoonhajinda/assets/98221086/b53d98aa-0367-42d8-b799-37d01dd92e02)
 
