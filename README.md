@@ -1,9 +1,4 @@
-### Hi there 👋.I'm Nat Choonhajinda 
-- 📫 Looking for Data scientist / Data analytic job
-- 🌱 I’m currently learning about Machine Learning & Deeplearning
-- 🔭 Most of the time i work alone so no update much
-## Skills ⚡
-- Current project : an exploration of optimize container fittings algorithm using genetic algorithm
+### Mostly Private repo,sry
 ![boxfitting](https://github.com/NatChoonhajinda/NatChoonhajinda/assets/98221086/b53d98aa-0367-42d8-b799-37d01dd92e02)
 
 
